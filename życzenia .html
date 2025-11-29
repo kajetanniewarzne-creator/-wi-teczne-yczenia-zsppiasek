@@ -1,0 +1,70 @@
+<!doctype html>
+
+
+
+</style>
+</head>
+<body>
+
+
+<header>
+<h1>Wesołych Świąt! 🎄✨</h1>
+<p>Niech ten wyjątkowy czas przyniesie Ci spokój, radość i wszystko, co najlepsze.
+Niech w Twoim domu zagości ciepło, bliskość i magia świątecznych chwil.</p>
+</header>
+
+
+<!-- Machający Mikołaj -->
+<svg class="santa" viewBox="0 0 300 260" xmlns="http://www.w3.org/2000/svg">
+<!-- Body -->
+<circle cx="150" cy="80" r="55" fill="#ff4d6d" />
+<rect x="110" y="130" width="80" height="110" rx="20" fill="#ffd166" />
+
+
+<!-- Head -->
+<circle cx="150" cy="110" r="32" fill="#fff" />
+<circle cx="138" cy="100" r="6" fill="#000" />
+<circle cx="162" cy="100" r="6" fill="#000" />
+<circle cx="150" cy="122" r="7" fill="#000" />
+
+
+<!-- Hat -->
+<polygon points="150,40 185,90 115,90" fill="#fff" />
+
+
+<!-- Waving hand -->
+<g class="hand">
+<rect x="195" y="120" width="45" height="20" rx="10" fill="#ff4d6d" />
+<circle cx="240" cy="130" r="14" fill="#ffd166" />
+</g>
+</svg>
+
+
+<section class="card">
+<h2>Świąteczne Życzenia 🎁</h2>
+<p>Życzę Ci pięknych chwil, dużo zdrowia oraz spełnienia marzeń.
+Niech magia Świąt rozświetli każdy dzień, a Nowy Rok przyniesie Ci nadzieję,
+nowe możliwości i powody do radości!</p>
+</section>
+
+
+<footer>
+ 🎅✨
+</footer>
+
+
+<script>
+// Snow
+for(let i=0;i<50;i++){
+const f=document.createElement('div');
+f.className='snowflake';
+f.style.left=Math.random()*100+'vw';
+f.style.animationDuration=6+Math.random()*10+'s';
+f.style.animationDelay=Math.random()*-15+'s';
+document.body.appendChild(f);
+}
+</script>
+
+
+</body>
+</html>
