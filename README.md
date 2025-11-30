@@ -1,1 +1,5 @@
-Wesołych Świąt! Niech magiczna moc wigilijnego wieczoru Wam spokój, wytchnienie i łączność. Wcześniejsze święta Bożego Narodzenia są tylko własne, a Nowy Rok obdaruje Was zdrowiem, pomyślność i szczęściem.-Życzy klasa 7b
+Niech Wam święta miłe będą
+dźwiękiem, śpiewem i kolędą.
+Niechaj w zdrowiu i urodzie,
+przy wieczerzy i w zgodzie
+czas miło płynie i raduje całą rodzinę!
